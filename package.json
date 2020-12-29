@@ -1,0 +1,14 @@
+{
+	"name": "unittestingconjest",
+	"version": "1.0.0",
+	"description": "pruebas unitarias con jest",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --watch"
+	},
+	"author": "mauricio",
+	"license": "MIT",
+	"devDependencies": {
+		"jest": "^26.6.3"
+	}
+}
